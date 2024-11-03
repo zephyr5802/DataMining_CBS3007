@@ -1,0 +1,13 @@
+Income,Criminal_Record,Experience,Loan_Approved,Income_encoded,Criminal_Record_encoded,Experience_encoded,Loan_Approved_encoded
+<30,No,1-5,Yes,1,0,1,1
+30-70,Yes,1,No,0,1,0,0
+30-70,No,1,No,0,0,0,0
+30-70,Yes,1-5,Yes,0,1,1,1
+30-70,No,>5,Yes,0,0,2,1
+30-70,Yes,1-5,No,0,1,1,0
+>70,Yes,>5,Yes,2,1,2,1
+>70,No,>5,No,2,0,2,0
+<30,Yes,1-5,No,1,1,1,0
+30-70,No,1-5,Yes,0,0,1,1
+30-70,No,1-5,No,0,0,1,0
+30-70,Yes,>5,Yes,0,1,2,1
